@@ -1,0 +1,12 @@
+#personal-bookmarks {
+  padding: 4px 0 !important;
+}
+#personal-bookmarks toolbarbutton {
+  margin: 4px !important;
+}
+
+.tab-background,
+#urlbar-background,
+#personal-bookmarks toolbarbutton {
+  border-radius: 20px !important;
+}
