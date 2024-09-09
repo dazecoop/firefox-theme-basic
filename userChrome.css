@@ -10,3 +10,7 @@
 #personal-bookmarks toolbarbutton {
   border-radius: 20px !important;
 }
+
+findbar {
+  order: -1;
+}
